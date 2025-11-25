@@ -6,7 +6,8 @@ alternatly - a buy / sell marketplace that focuses on alt-fashion (goth, punk, g
 
 🌱 What I’m Learning
 - creating and scaling mobile apps
-- comm
+- product-led and user-centered design
+- devops & cloud infrastructure
 
 🧰 My Tools
 - *Frontend:* Vue.js, React Native w/ Expo
