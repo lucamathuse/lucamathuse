@@ -1,17 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Luca 👋
 
-🔭 I’m currently working on alternatly - a buy / sell app that solely focuses on alt-fashion
-<!--
-**lucamathuse/lucamathuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently Building
+alternatly - a buy / sell marketplace that focuses on alt-fashion (goth, punk, grunge, emo, etc.)
 
-Here are some ideas to get you started:
+🌱 What I’m Learning
+- creating and scaling mobile apps
+- comm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 My Tools
+*Frontend:* Vue.js, React Native w/ Expo
+*Backend:* Node.js w/ Express
+*DB:* PostgreSQL, MariaDB
+*Design:* Figma, Affinity
+
+🤘 About Me
+- Full-Stack Developer
+- Classic Rock lover and vinyl collector
+- Bookworm
