@@ -8,10 +8,10 @@ alternatly - a buy / sell marketplace that focuses on alt-fashion (goth, punk, g
 - comm
 
 🧰 My Tools
-*Frontend:* Vue.js, React Native w/ Expo
-*Backend:* Node.js w/ Express
-*DB:* PostgreSQL, MariaDB
-*Design:* Figma, Affinity
+- *Frontend:* Vue.js, React Native w/ Expo
+- *Backend:* Node.js w/ Express
+- *DB:* PostgreSQL, MariaDB
+- *Design:* Figma, Affinity
 
 🤘 About Me
 - Full-Stack Developer
