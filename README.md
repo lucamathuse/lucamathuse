@@ -4,6 +4,8 @@
 
 alternatly - a buy / sell marketplace that focuses on alt-fashion (goth, punk, grunge, emo, etc.)
 
+portfoöio - a little website that showcases my skills and techstack
+
 🌱 What I’m Learning
 - creating and scaling mobile apps
 - product-led and user-centered design
