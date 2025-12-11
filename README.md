@@ -6,6 +6,8 @@ alternatly - a buy / sell marketplace that focuses on alt-fashion (goth, punk, g
 
 portfolio - a little website that showcases my skills and techstack
 
+notion-todo - a small chrome extension that let's you create and manage tasks in Notion
+
 🌱 What I’m Learning
 - creating and scaling mobile apps
 - product-led and user-centered design
